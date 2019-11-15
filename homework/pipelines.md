@@ -2,7 +2,7 @@
 
 W poniższym pliku znajduje się pipeline, który w przyjemny sposób pokazuję wartość prądu, który importujemy z Niemiec.
 
-![alt text](https://i.imgur.com/kcJltGA.png)
+![alt text](https://i.imgur.com/wTtCr4g.png)
 
 ### Polecenie skondensowane
 
